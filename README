@@ -1,0 +1,5 @@
+Qodex est une plateforme web dédiée à l'organisation et la participation aux hackathons. Elle met en relation les organisateurs d'événements, les participants (développeurs, designers, entrepreneurs), les mentors, et les sponsors. La plateforme permet de gérer l'inscription aux hackathons, la formation d'équipes, la soumission de projets, l'évaluation par des jurys, et la distribution de récompenses.
+
+Objectif :
+
+Concevoir et implémenter une base de données relationnelle robuste et évolutive pour supporter toutes les fonctionnalités de Qodex, en garantissant l'intégrité des données et des performances optimales.
